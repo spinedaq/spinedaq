@@ -19,7 +19,7 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0A1929?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4CAF50?style=for-the-badge&logo=data-analysis&logoColor=white)
-![Data Scientist](https://img.shields.io/badge/-Data_Scientist-30336b?style=for-the-badge&logo=data-scientist&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data_Scientist-30336b?style=for-the-badge&logo=data-scientist&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-008080?style=for-the-badge&logo=nlp&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-4B0082?style=for-the-badge&logo=llm&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5179A1?style=for-the-badge&logo=computer-vision&logoColor=white)
