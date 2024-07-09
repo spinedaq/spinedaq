@@ -43,6 +43,7 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54)
 
 
 
