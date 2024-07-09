@@ -1,10 +1,8 @@
  <h2 align="center"> <img alt="Hand wave" src="./assets/Hand Wave.gif" width='40'/> Hey there! I'm Santiago</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/juan-aguirre-arango"><img src="https://img.shields.io/badge/-Juan%20Carlos%20Aguirre%20Arango-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<!-- <a href="mailto:jucaguirrear@unal.edu.co"><img src="https://img.shields.io/badge/-jucaguirrear@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
-<!-- <a href="https://instagram.com/jucaguirre"><img src="https://img.shields.io/badge/-@__juan_aguirre__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
-<!-- <a href="https://twitter.com/aaguirrejuan"><img src="https://img.shields.io/badge/-@aaguirrejuan-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/santiago-pineda-quintero-4b9155192/"><img src="https://img.shields.io/badge/-Juan%20Carlos%20Aguirre%20Arango-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="mailto:spinedaq@unal.edu.co"><img src="https://img.shields.io/badge/-jucaguirrear@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 </p>
 
 As a data scientist, I am passionate about solving complex problems and creating value from data. I have a master's degree in engineering with a focus on artificial intelligence, where I developed my critical thinking and research skills. I also have multiple certifications in data analysis, SQL, and Git.
