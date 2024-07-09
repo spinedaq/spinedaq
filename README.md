@@ -81,7 +81,7 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
    <td>
       <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
         <a href="https://github.com/optilab-mzl/dataton2023-optilab">
-          <img src="https://github.com/optilab-mzl/dataton2023-optilab/raw/main/assets/logo.png" alt="Optilab" width="200"/>
+          <img src="assets/logo.png" alt="Optilab" width="200"/>
           <br><strong>Optilab</strong>
         </a>
       </div>
