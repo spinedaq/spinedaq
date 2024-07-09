@@ -22,6 +22,11 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-008080?style=for-the-badge&logo=nlp&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-4B0082?style=for-the-badge&logo=llm&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Cypher](https://img.shields.io/badge/-Cypher-00C3E3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
 
 
 
