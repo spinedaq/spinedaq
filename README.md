@@ -28,6 +28,10 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0A1929?style=for-the-badge&logo=deep-learning&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4CAF50?style=for-the-badge&logo=data-analysis&logoColor=white)
+
 
 
 
