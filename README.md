@@ -153,8 +153,8 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aguirrejuan">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguirrejuan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguirrejuan&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=default"/>
+<a href="https://github.com/spinedaq">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spinedaq&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spinedaq&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=default"/>
 </a>
 </p>
