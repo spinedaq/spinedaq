@@ -83,6 +83,15 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
         </a>
       </div>
     </td>
+
+  <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/Curso-Procesamiento-de-Lenguaje-Natural-NLP-">
+          <img src="https://github.com/optilab-mzl/dataton2023-optilab/raw/main/assets/NLP_logo.png" alt="Optilab" width="200"/>
+          <br><strong>Optilab</strong>
+        </a>
+      </div>
+    </td>
 </table>
 
 
