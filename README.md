@@ -5,9 +5,14 @@
 <!-- <a href="mailto:spinedaq@unal.edu.co"><img src="https://img.shields.io/badge/-spinedaq@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 </p>
 
-As a data scientist, I am passionate about solving complex problems and creating value from data. I have a master's degree in engineering with a focus on artificial intelligence, where I developed my critical thinking and research skills. I also have multiple certifications in data analysis, SQL, and Git.
+Data Scientist with extensive training in mathematics, probability, statistics, programming (Languages: Python, R) and cloud deployment (AWS, Azure, Google Cloud). Having experience in the area of ​​data science, particularly in:
 
-My most recent work experience was at Inference SAS, where I contributed to developing computer vision systems based on deep learning to reduce inspection time in sewer operations. I also worked as a data analyst at Universidad Nacional de Colombia, creating dashboards using Looker Studio to evaluate institutional metrics. I have proficiency in Python, TensorFlow, Keras, and computer vision, and knowledge of SQL, Linux, and NLP. I am currently seeking full-time positions in data science or machine learning, where I can apply my skills and learn new ones.
+- Implementation of classic Machine Learning algorithms, for tasks of: regression, classification, data clustering, anomalous data detection and dimension reduction.
+
+- Implementation of Deep Learning models, to perform any of the tasks mentioned above and also, for the development of computer vision models, and subsequently for their deployment on embedded systems and the cloud.
+
+
+- Implementation of deep learning models for the development of broad language models, chatbots and in general models that allow addressing projects that require the processing and understanding of human language.
 
 ## 🛠 &nbsp; Technology Experience
 
