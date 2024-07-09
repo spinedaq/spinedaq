@@ -19,6 +19,10 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54)
+![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-008080?style=for-the-badge&logo=nlp&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-4B0082?style=for-the-badge&logo=llm&logoColor=white)
+
 
 
 
