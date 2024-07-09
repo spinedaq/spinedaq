@@ -16,28 +16,29 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 
 ## 🛠 &nbsp; Technology Experience
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54)
-![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-008080?style=for-the-badge&logo=nlp&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-4B0082?style=for-the-badge&logo=llm&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Cypher](https://img.shields.io/badge/-Cypher-00C3E3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0A1929?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-4CAF50?style=for-the-badge&logo=data-analysis&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5179A1?style=for-the-badge&logo=computer-vision&logoColor=white)
 ![Data Scientist](https://img.shields.io/badge/-Data_Scientist-30336b?style=for-the-badge&logo=data-scientist&logoColor=white)
-![DevOps](https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=devops&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-008080?style=for-the-badge&logo=nlp&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-4B0082?style=for-the-badge&logo=llm&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5179A1?style=for-the-badge&logo=computer-vision&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-FFA500?style=for-the-badge&logo=yolo&logoColor=white)
+![Tesseract](https://img.shields.io/badge/-Tesseract-333333?style=for-the-badge&logo=tesseract&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Cypher](https://img.shields.io/badge/-Cypher-00C3E3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFCA28?style=for-the-badge&logo=hugging-face&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -47,8 +48,7 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-FFA500?style=for-the-badge&logo=yolo&logoColor=white)
-![Tesseract](https://img.shields.io/badge/-Tesseract-333333?style=for-the-badge&logo=tesseract&logoColor=white)
+
 
 
 
@@ -66,6 +66,7 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/-MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=devops&logoColor=white)
 
 
 
