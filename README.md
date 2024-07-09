@@ -47,6 +47,9 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-FFA500?style=for-the-badge&logo=yolo&logoColor=white)
+![Tesseract](https://img.shields.io/badge/-Tesseract-333333?style=for-the-badge&logo=tesseract&logoColor=white)
+
 
 
 
