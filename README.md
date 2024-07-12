@@ -39,7 +39,7 @@ Data Scientist with extensive training in mathematics, probability, statistics, 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
 ![Chroma](https://img.shields.io/badge/-Chroma-4A148C?style=for-the-badge&logo=chroma&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54
+![LangChain](https://img.shields.io/badge/-LangChain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54)
 ![NLTK](https://img.shields.io/badge/-NLTK-85C1E9?style=for-the-badge&logo=nltk&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
